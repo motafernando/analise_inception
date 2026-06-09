@@ -1,0 +1,31 @@
+﻿candidato,documento,horario,media_acuracia_balanceada,media_acuracia_entidade_referencia,media_acuracia_geral,qtd_referencias,tokens_balanceados_medio,tokens_entidade_referencia_medio,tokens_ignorados_o_o_medio,total_tokens_medio,usuario
+Ana Alice César Santos Vasconcelos,rce-01.txt,manhã,39.03225806451613,54.72795804654212,65.38461538461539,2,155.0,110.5,118.0,273.0,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,rce-39.txt,manhã,61.33333333333333,97.11538461538461,95.33762057877813,2,75.0,47.5,547.0,622.0,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,vr-16.txt,manhã,54.2483660130719,79.16666666666667,82.41758241758241,2,35.0,24.0,56.0,91.0,ana_vasconcelos
+Ana Carolina Santos Silva,rce-01.txt,manhã,96.90265486725664,99.09455916093084,98.71794871794872,2,113.0,110.5,160.0,273.0,ana.santos
+Ana Carolina Santos Silva,rce-39.txt,manhã,29.237288135593218,72.58497316636851,86.57556270096462,2,118.0,47.5,504.0,622.0,ana.santos
+Ana Carolina Santos Silva,vr-16.txt,manhã,60.0,87.5,84.61538461538461,2,35.0,24.0,56.0,91.0,ana.santos
+Eduardo Matheus Domingos dos Passos,rce-01.txt,manhã,81.48148148148148,99.5575221238938,90.84249084249085,2,135.0,110.5,138.0,273.0,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,rce-39.txt,manhã,58.30182475752096,96.15384615384616,94.7749196141479,2,78.0,47.5,544.0,622.0,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,vr-16.txt,manhã,52.70270270270271,81.25,80.76923076923077,2,37.0,24.0,54.0,91.0,eduardomatheusd
+Helena Polizzi Limongi,rce-01.txt,manhã,96.90265486725664,99.09455916093084,98.71794871794872,2,113.0,110.5,160.0,273.0,helena
+Helena Polizzi Limongi,rce-39.txt,manhã,52.906976744186046,96.15384615384616,93.48874598070739,2,86.0,47.5,536.0,622.0,helena
+Helena Polizzi Limongi,vr-16.txt,manhã,67.14285714285714,97.91666666666667,87.36263736263737,2,35.0,24.0,56.0,91.0,helena
+Ygor Pereira da Cruz,rce-01.txt,manhã,81.85185185185185,100.0,91.02564102564102,2,135.0,110.5,138.0,273.0,ygorcruz
+Ygor Pereira da Cruz,rce-39.txt,manhã,43.46994025392084,95.1923076923077,90.59485530546624,2,103.5,47.5,518.5,622.0,ygorcruz
+Ygor Pereira da Cruz,vr-16.txt,manhã,62.5,93.75,85.16483516483515,2,36.0,24.0,55.0,91.0,ygorcruz
+Fernando Avelino de Souza,rce-02.txt,tarde,76.71875,78.58360655737705,94.96587030716724,2,126.5,123.5,459.5,586.0,fernando.avelino
+Fernando Avelino de Souza,rce-46.txt,tarde,64.9391501650165,73.2166273275636,84.59821428571428,2,98.5,87.5,125.5,224.0,fernando.avelino
+Fernando Avelino de Souza,vr-34.txt,tarde,66.76829268292683,84.16422287390029,86.89320388349515,2,40.5,32.0,62.5,103.0,fernando.avelino
+João Pedro Dias da Silva,rce-02.txt,tarde,80.36198219125049,81.01311475409837,95.81911262798636,2,124.5,123.5,461.5,586.0,joao_dias
+João Pedro Dias da Silva,rce-46.txt,tarde,70.18995098039215,79.5633359559402,86.83035714285714,2,99.0,87.5,125.0,224.0,joao_dias
+João Pedro Dias da Silva,vr-34.txt,tarde,67.10613052076467,81.13391984359725,87.37864077669903,2,39.0,32.0,64.0,103.0,joao_dias
+Maria Eduarda Ferreira Pires,rce-02.txt,tarde,79.60402684563758,96.39016393442623,94.79522184300342,2,149.5,123.5,436.5,586.0,maria_ferreira
+Maria Eduarda Ferreira Pires,rce-46.txt,tarde,57.91666666666667,79.5633359559402,77.45535714285714,2,120.0,87.5,104.0,224.0,maria_ferreira
+Maria Eduarda Ferreira Pires,vr-34.txt,tarde,54.72868217054263,74.7800586510264,80.58252427184465,2,44.0,32.0,59.0,103.0,maria_ferreira
+Maria Luiza Moreira Macedo,rce-02.txt,tarde,72.91475409836065,72.91475409836065,94.28327645051195,2,123.5,123.5,462.5,586.0,costajoyce
+Maria Luiza Moreira Macedo,rce-46.txt,tarde,56.2888198757764,61.205087857330184,81.47321428571428,2,95.0,87.5,129.0,224.0,costajoyce
+Maria Luiza Moreira Macedo,vr-34.txt,tarde,66.19047619047618,73.46041055718476,88.3495145631068,2,35.5,32.0,67.5,103.0,costajoyce
+Markes Felipe Maciel Oliveira,rce-02.txt,tarde,59.18350168350168,63.977049180327874,90.69965870307168,2,133.5,123.5,452.5,586.0,markes
+Markes Felipe Maciel Oliveira,rce-46.txt,tarde,76.10307749351131,78.41594544977708,90.40178571428572,2,90.0,87.5,134.0,224.0,markes
+Markes Felipe Maciel Oliveira,vr-34.txt,tarde,60.548780487804876,76.49071358748778,84.46601941747572,2,40.5,32.0,62.5,103.0,markes

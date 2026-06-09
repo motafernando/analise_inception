@@ -1,0 +1,265 @@
+﻿candidato,contagem,documento,rotulo,usuario
+Ana Carolina Santos Silva,161,rce-01.txt,O,ana.santos
+Ana Carolina Santos Silva,36,rce-01.txt,Advogado,ana.santos
+Ana Carolina Santos Silva,31,rce-01.txt,PessoaJuridica,ana.santos
+Ana Carolina Santos Silva,27,rce-01.txt,NumeroOAB,ana.santos
+Ana Carolina Santos Silva,10,rce-01.txt,PessoaFisica,ana.santos
+Ana Carolina Santos Silva,6,rce-01.txt,NumeroProcesso,ana.santos
+Ana Carolina Santos Silva,1,rce-01.txt,ClasseProcessual,ana.santos
+Ana Carolina Santos Silva,1,rce-01.txt,NumeroPeticao,ana.santos
+Ana Alice César Santos Vasconcelos,118,rce-01.txt,O,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,85,rce-01.txt,agrupado,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,32,rce-01.txt,PessoaJuridica,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,11,rce-01.txt,NumeroOAB,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,10,rce-01.txt,PessoaFisica,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,7,rce-01.txt,Advogado,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,6,rce-01.txt,NumeroProcesso,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,3,rce-01.txt,NumeroPeticao,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,1,rce-01.txt,ClasseProcessual,ana_vasconcelos
+Eduardo Matheus Domingos dos Passos,138,rce-01.txt,O,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,45,rce-01.txt,NumeroOAB,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,36,rce-01.txt,Advogado,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,34,rce-01.txt,PessoaJuridica,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,10,rce-01.txt,PessoaFisica,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,6,rce-01.txt,NumeroProcesso,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,3,rce-01.txt,peticionou,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,1,rce-01.txt,ClasseProcessual,eduardomatheusd
+Helena Polizzi Limongi,161,rce-01.txt,O,helena
+Helena Polizzi Limongi,36,rce-01.txt,Advogado,helena
+Helena Polizzi Limongi,31,rce-01.txt,PessoaJuridica,helena
+Helena Polizzi Limongi,27,rce-01.txt,NumeroOAB,helena
+Helena Polizzi Limongi,10,rce-01.txt,PessoaFisica,helena
+Helena Polizzi Limongi,6,rce-01.txt,NumeroProcesso,helena
+Helena Polizzi Limongi,1,rce-01.txt,ClasseProcessual,helena
+Helena Polizzi Limongi,1,rce-01.txt,NumeroPeticao,helena
+Ygor Pereira da Cruz,138,rce-01.txt,O,ygorcruz
+Ygor Pereira da Cruz,45,rce-01.txt,NumeroOAB,ygorcruz
+Ygor Pereira da Cruz,36,rce-01.txt,Advogado,ygorcruz
+Ygor Pereira da Cruz,32,rce-01.txt,PessoaJuridica,ygorcruz
+Ygor Pereira da Cruz,10,rce-01.txt,PessoaFisica,ygorcruz
+Ygor Pereira da Cruz,6,rce-01.txt,NumeroProcesso,ygorcruz
+Ygor Pereira da Cruz,3,rce-01.txt,ClasseProcessual,ygorcruz
+Ygor Pereira da Cruz,3,rce-01.txt,NumeroPeticao,ygorcruz
+Maria Luiza Moreira Macedo,493,rce-02.txt,O,costajoyce
+Maria Luiza Moreira Macedo,35,rce-02.txt,Advogado,costajoyce
+Maria Luiza Moreira Macedo,27,rce-02.txt,NumeroOAB,costajoyce
+Maria Luiza Moreira Macedo,17,rce-02.txt,PessoaJuridica,costajoyce
+Maria Luiza Moreira Macedo,5,rce-02.txt,PessoaFisica,costajoyce
+Maria Luiza Moreira Macedo,5,rce-02.txt,Relator,costajoyce
+Maria Luiza Moreira Macedo,3,rce-02.txt,NumeroProcesso,costajoyce
+Maria Luiza Moreira Macedo,1,rce-02.txt,ClasseProcessual,costajoyce
+Fernando Avelino de Souza,479,rce-02.txt,O,fernando.avelino
+Fernando Avelino de Souza,36,rce-02.txt,Advogado,fernando.avelino
+Fernando Avelino de Souza,29,rce-02.txt,NumeroOAB,fernando.avelino
+Fernando Avelino de Souza,20,rce-02.txt,PessoaJuridica,fernando.avelino
+Fernando Avelino de Souza,5,rce-02.txt,PessoaFisica,fernando.avelino
+Fernando Avelino de Souza,5,rce-02.txt,Relator,fernando.avelino
+Fernando Avelino de Souza,4,rce-02.txt,*,fernando.avelino
+Fernando Avelino de Souza,3,rce-02.txt,NumeroProcesso,fernando.avelino
+Fernando Avelino de Souza,3,rce-02.txt,Assessor,fernando.avelino
+Fernando Avelino de Souza,2,rce-02.txt,ClasseProcessual,fernando.avelino
+João Pedro Dias da Silva,477,rce-02.txt,O,joao_dias
+João Pedro Dias da Silva,37,rce-02.txt,Advogado,joao_dias
+João Pedro Dias da Silva,27,rce-02.txt,NumeroOAB,joao_dias
+João Pedro Dias da Silva,24,rce-02.txt,PessoaJuridica,joao_dias
+João Pedro Dias da Silva,9,rce-02.txt,Magistrado,joao_dias
+João Pedro Dias da Silva,5,rce-02.txt,PessoaFisica,joao_dias
+João Pedro Dias da Silva,3,rce-02.txt,NumeroProcesso,joao_dias
+João Pedro Dias da Silva,3,rce-02.txt,Assessor,joao_dias
+João Pedro Dias da Silva,1,rce-02.txt,ClasseProcessual,joao_dias
+Maria Eduarda Ferreira Pires,438,rce-02.txt,O,maria_ferreira
+Maria Eduarda Ferreira Pires,45,rce-02.txt,NumeroOAB,maria_ferreira
+Maria Eduarda Ferreira Pires,36,rce-02.txt,Advogado,maria_ferreira
+Maria Eduarda Ferreira Pires,24,rce-02.txt,PessoaJuridica,maria_ferreira
+Maria Eduarda Ferreira Pires,19,rce-02.txt,ReferenciaLegal,maria_ferreira
+Maria Eduarda Ferreira Pires,5,rce-02.txt,PessoaFisica,maria_ferreira
+Maria Eduarda Ferreira Pires,5,rce-02.txt,Relator,maria_ferreira
+Maria Eduarda Ferreira Pires,4,rce-02.txt,ClasseProcessual,maria_ferreira
+Maria Eduarda Ferreira Pires,4,rce-02.txt,Magistrado,maria_ferreira
+Maria Eduarda Ferreira Pires,3,rce-02.txt,NumeroProcesso,maria_ferreira
+Maria Eduarda Ferreira Pires,3,rce-02.txt,Assessor,maria_ferreira
+Markes Felipe Maciel Oliveira,468,rce-02.txt,O,markes
+Markes Felipe Maciel Oliveira,36,rce-02.txt,Advogado,markes
+Markes Felipe Maciel Oliveira,27,rce-02.txt,NumeroOAB,markes
+Markes Felipe Maciel Oliveira,16,rce-02.txt,PoloPassivo,markes
+Markes Felipe Maciel Oliveira,10,rce-02.txt,*,markes
+Markes Felipe Maciel Oliveira,7,rce-02.txt,PessoaFisica,markes
+Markes Felipe Maciel Oliveira,7,rce-02.txt,PessoaJuridica,markes
+Markes Felipe Maciel Oliveira,6,rce-02.txt,PoloAtivo,markes
+Markes Felipe Maciel Oliveira,5,rce-02.txt,Relator,markes
+Markes Felipe Maciel Oliveira,3,rce-02.txt,NumeroProcesso,markes
+Markes Felipe Maciel Oliveira,1,rce-02.txt,ClasseProcessual,markes
+Ana Carolina Santos Silva,504,rce-39.txt,O,ana.santos
+Ana Carolina Santos Silva,36,rce-39.txt,ReferenciaLegal,ana.santos
+Ana Carolina Santos Silva,30,rce-39.txt,EntidadeNomeada,ana.santos
+Ana Carolina Santos Silva,15,rce-39.txt,Advogado,ana.santos
+Ana Carolina Santos Silva,8,rce-39.txt,PoloPassivo,ana.santos
+Ana Carolina Santos Silva,7,rce-39.txt,Magistrado,ana.santos
+Ana Carolina Santos Silva,6,rce-39.txt,NumeroProcesso,ana.santos
+Ana Carolina Santos Silva,6,rce-39.txt,ClasseProcessual,ana.santos
+Ana Carolina Santos Silva,6,rce-39.txt,PoloAtivo,ana.santos
+Ana Carolina Santos Silva,4,rce-39.txt,IdentificadorDeDocumento,ana.santos
+Ana Alice César Santos Vasconcelos,547,rce-39.txt,O,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,15,rce-39.txt,Advogado,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,10,rce-39.txt,ReferenciaLegal,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,9,rce-39.txt,NumeroPeticao,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,8,rce-39.txt,PessoaJuridica,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,7,rce-39.txt,PessoaFisica,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,7,rce-39.txt,Magistrado,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,6,rce-39.txt,NumeroProcesso,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,6,rce-39.txt,ClasseProcessual,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,5,rce-39.txt,Artigo,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,2,rce-39.txt,IdentificadorDeDocumento,ana_vasconcelos
+Eduardo Matheus Domingos dos Passos,545,rce-39.txt,O,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,18,rce-39.txt,ReferenciaLegal,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,15,rce-39.txt,Advogado,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,8,rce-39.txt,PessoaJuridica,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,7,rce-39.txt,Magistrado,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,6,rce-39.txt,PessoaFisica,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,6,rce-39.txt,NumeroProcesso,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,6,rce-39.txt,ClasseProcessual,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,6,rce-39.txt,peticionou,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,5,rce-39.txt,Artigo,eduardomatheusd
+Helena Polizzi Limongi,536,rce-39.txt,O,helena
+Helena Polizzi Limongi,32,rce-39.txt,ReferenciaLegal,helena
+Helena Polizzi Limongi,15,rce-39.txt,Advogado,helena
+Helena Polizzi Limongi,8,rce-39.txt,PessoaJuridica,helena
+Helena Polizzi Limongi,7,rce-39.txt,Magistrado,helena
+Helena Polizzi Limongi,6,rce-39.txt,PessoaFisica,helena
+Helena Polizzi Limongi,6,rce-39.txt,NumeroProcesso,helena
+Helena Polizzi Limongi,6,rce-39.txt,ClasseProcessual,helena
+Helena Polizzi Limongi,4,rce-39.txt,NumeroPeticao,helena
+Helena Polizzi Limongi,2,rce-39.txt,Artigo,helena
+Ygor Pereira da Cruz,519,rce-39.txt,O,ygorcruz
+Ygor Pereira da Cruz,37,rce-39.txt,ReferenciaLegal,ygorcruz
+Ygor Pereira da Cruz,15,rce-39.txt,Advogado,ygorcruz
+Ygor Pereira da Cruz,11,rce-39.txt,NumeroPeticao,ygorcruz
+Ygor Pereira da Cruz,10,rce-39.txt,PessoaJuridica,ygorcruz
+Ygor Pereira da Cruz,7,rce-39.txt,Magistrado,ygorcruz
+Ygor Pereira da Cruz,6,rce-39.txt,PessoaFisica,ygorcruz
+Ygor Pereira da Cruz,6,rce-39.txt,NumeroProcesso,ygorcruz
+Ygor Pereira da Cruz,6,rce-39.txt,ClasseProcessual,ygorcruz
+Ygor Pereira da Cruz,5,rce-39.txt,Artigo,ygorcruz
+Maria Luiza Moreira Macedo,163,rce-46.txt,O,costajoyce
+Maria Luiza Moreira Macedo,20,rce-46.txt,NumeroOAB,costajoyce
+Maria Luiza Moreira Macedo,14,rce-46.txt,PessoaJuridica,costajoyce
+Maria Luiza Moreira Macedo,14,rce-46.txt,Advogado,costajoyce
+Maria Luiza Moreira Macedo,5,rce-46.txt,PessoaFisica,costajoyce
+Maria Luiza Moreira Macedo,4,rce-46.txt,Relator,costajoyce
+Maria Luiza Moreira Macedo,3,rce-46.txt,NumeroProcesso,costajoyce
+Maria Luiza Moreira Macedo,1,rce-46.txt,ClasseProcessual,costajoyce
+Fernando Avelino de Souza,144,rce-46.txt,O,fernando.avelino
+Fernando Avelino de Souza,22,rce-46.txt,PessoaJuridica,fernando.avelino
+Fernando Avelino de Souza,20,rce-46.txt,NumeroOAB,fernando.avelino
+Fernando Avelino de Souza,14,rce-46.txt,Advogado,fernando.avelino
+Fernando Avelino de Souza,10,rce-46.txt,PessoaFisica,fernando.avelino
+Fernando Avelino de Souza,5,rce-46.txt,Artigo,fernando.avelino
+Fernando Avelino de Souza,4,rce-46.txt,Relator,fernando.avelino
+Fernando Avelino de Souza,3,rce-46.txt,NumeroProcesso,fernando.avelino
+Fernando Avelino de Souza,2,rce-46.txt,ClasseProcessual,fernando.avelino
+João Pedro Dias da Silva,143,rce-46.txt,O,joao_dias
+João Pedro Dias da Silva,25,rce-46.txt,PessoaJuridica,joao_dias
+João Pedro Dias da Silva,20,rce-46.txt,NumeroOAB,joao_dias
+João Pedro Dias da Silva,14,rce-46.txt,Advogado,joao_dias
+João Pedro Dias da Silva,10,rce-46.txt,PessoaFisica,joao_dias
+João Pedro Dias da Silva,5,rce-46.txt,ClasseProcessual,joao_dias
+João Pedro Dias da Silva,4,rce-46.txt,Relator,joao_dias
+João Pedro Dias da Silva,3,rce-46.txt,NumeroProcesso,joao_dias
+Maria Eduarda Ferreira Pires,105,rce-46.txt,O,maria_ferreira
+Maria Eduarda Ferreira Pires,29,rce-46.txt,NumeroOAB,maria_ferreira
+Maria Eduarda Ferreira Pires,28,rce-46.txt,Artigo,maria_ferreira
+Maria Eduarda Ferreira Pires,23,rce-46.txt,PessoaJuridica,maria_ferreira
+Maria Eduarda Ferreira Pires,14,rce-46.txt,Advogado,maria_ferreira
+Maria Eduarda Ferreira Pires,10,rce-46.txt,PessoaFisica,maria_ferreira
+Maria Eduarda Ferreira Pires,7,rce-46.txt,ClasseProcessual,maria_ferreira
+Maria Eduarda Ferreira Pires,3,rce-46.txt,Pessoa,maria_ferreira
+Maria Eduarda Ferreira Pires,3,rce-46.txt,NumeroProcesso,maria_ferreira
+Maria Eduarda Ferreira Pires,2,rce-46.txt,Relator,maria_ferreira
+Markes Felipe Maciel Oliveira,153,rce-46.txt,O,markes
+Markes Felipe Maciel Oliveira,22,rce-46.txt,PessoaJuridica,markes
+Markes Felipe Maciel Oliveira,20,rce-46.txt,NumeroOAB,markes
+Markes Felipe Maciel Oliveira,13,rce-46.txt,Advogado,markes
+Markes Felipe Maciel Oliveira,10,rce-46.txt,PessoaFisica,markes
+Markes Felipe Maciel Oliveira,3,rce-46.txt,NumeroProcesso,markes
+Markes Felipe Maciel Oliveira,2,rce-46.txt,Relator,markes
+Markes Felipe Maciel Oliveira,1,rce-46.txt,ClasseProcessual,markes
+Ana Carolina Santos Silva,56,vr-16.txt,O,ana.santos
+Ana Carolina Santos Silva,19,vr-16.txt,PessoaJuridica,ana.santos
+Ana Carolina Santos Silva,5,vr-16.txt,Magistrado,ana.santos
+Ana Carolina Santos Silva,3,vr-16.txt,*,ana.santos
+Ana Carolina Santos Silva,3,vr-16.txt,NumeroOAB,ana.santos
+Ana Carolina Santos Silva,3,vr-16.txt,Advogado,ana.santos
+Ana Carolina Santos Silva,1,vr-16.txt,IdentificadorDeDocumento,ana.santos
+Ana Carolina Santos Silva,1,vr-16.txt,ClasseProcessual,ana.santos
+Ana Alice César Santos Vasconcelos,58,vr-16.txt,O,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,8,vr-16.txt,PoloIndeterminado,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,6,vr-16.txt,PessoaJuridica,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,5,vr-16.txt,NumeroOAB,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,5,vr-16.txt,Magistrado,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,4,vr-16.txt,Advogado,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,3,vr-16.txt,NumeroProcesso,ana_vasconcelos
+Ana Alice César Santos Vasconcelos,2,vr-16.txt,NumeroPeticao,ana_vasconcelos
+Eduardo Matheus Domingos dos Passos,54,vr-16.txt,O,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,8,vr-16.txt,PoloIndeterminado,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,7,vr-16.txt,PessoaJuridica,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,5,vr-16.txt,NumeroOAB,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,5,vr-16.txt,Magistrado,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,3,vr-16.txt,NumeroProcesso,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,3,vr-16.txt,Advogado,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,3,vr-16.txt,PoloPassivo,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,2,vr-16.txt,NumeroPeticao,eduardomatheusd
+Eduardo Matheus Domingos dos Passos,1,vr-16.txt,ClasseProcessual,eduardomatheusd
+Helena Polizzi Limongi,56,vr-16.txt,O,helena
+Helena Polizzi Limongi,18,vr-16.txt,PessoaJuridica,helena
+Helena Polizzi Limongi,5,vr-16.txt,Magistrado,helena
+Helena Polizzi Limongi,3,vr-16.txt,NumeroProcesso,helena
+Helena Polizzi Limongi,3,vr-16.txt,NumeroOAB,helena
+Helena Polizzi Limongi,3,vr-16.txt,Advogado,helena
+Helena Polizzi Limongi,2,vr-16.txt,ClasseProcessual,helena
+Helena Polizzi Limongi,1,vr-16.txt,NumeroPeticao,helena
+Ygor Pereira da Cruz,56,vr-16.txt,O,ygorcruz
+Ygor Pereira da Cruz,17,vr-16.txt,PessoaJuridica,ygorcruz
+Ygor Pereira da Cruz,5,vr-16.txt,NumeroOAB,ygorcruz
+Ygor Pereira da Cruz,5,vr-16.txt,Magistrado,ygorcruz
+Ygor Pereira da Cruz,3,vr-16.txt,NumeroProcesso,ygorcruz
+Ygor Pereira da Cruz,3,vr-16.txt,Advogado,ygorcruz
+Ygor Pereira da Cruz,2,vr-16.txt,NumeroPeticao,ygorcruz
+Maria Luiza Moreira Macedo,76,vr-34.txt,O,costajoyce
+Maria Luiza Moreira Macedo,11,vr-34.txt,PessoaJuridica,costajoyce
+Maria Luiza Moreira Macedo,6,vr-34.txt,NumeroOAB,costajoyce
+Maria Luiza Moreira Macedo,6,vr-34.txt,Advogado,costajoyce
+Maria Luiza Moreira Macedo,3,vr-34.txt,NumeroProcesso,costajoyce
+Maria Luiza Moreira Macedo,1,vr-34.txt,ClasseProcessual,costajoyce
+Fernando Avelino de Souza,64,vr-34.txt,O,fernando.avelino
+Fernando Avelino de Souza,12,vr-34.txt,PessoaJuridica,fernando.avelino
+Fernando Avelino de Souza,6,vr-34.txt,NumeroOAB,fernando.avelino
+Fernando Avelino de Souza,6,vr-34.txt,Advogado,fernando.avelino
+Fernando Avelino de Souza,6,vr-34.txt,Magistrado,fernando.avelino
+Fernando Avelino de Souza,5,vr-34.txt,*,fernando.avelino
+Fernando Avelino de Souza,3,vr-34.txt,NumeroProcesso,fernando.avelino
+Fernando Avelino de Souza,1,vr-34.txt,ClasseProcessual,fernando.avelino
+João Pedro Dias da Silva,69,vr-34.txt,O,joao_dias
+João Pedro Dias da Silva,6,vr-34.txt,PessoaJuridica,joao_dias
+João Pedro Dias da Silva,6,vr-34.txt,NumeroOAB,joao_dias
+João Pedro Dias da Silva,6,vr-34.txt,Advogado,joao_dias
+João Pedro Dias da Silva,6,vr-34.txt,Magistrado,joao_dias
+João Pedro Dias da Silva,4,vr-34.txt,PoloAtivo,joao_dias
+João Pedro Dias da Silva,3,vr-34.txt,NumeroProcesso,joao_dias
+João Pedro Dias da Silva,2,vr-34.txt,PessoaFisica,joao_dias
+João Pedro Dias da Silva,1,vr-34.txt,ClasseProcessual,joao_dias
+Maria Eduarda Ferreira Pires,62,vr-34.txt,O,maria_ferreira
+Maria Eduarda Ferreira Pires,13,vr-34.txt,NumeroOAB,maria_ferreira
+Maria Eduarda Ferreira Pires,12,vr-34.txt,PessoaJuridica,maria_ferreira
+Maria Eduarda Ferreira Pires,6,vr-34.txt,Advogado,maria_ferreira
+Maria Eduarda Ferreira Pires,6,vr-34.txt,Magistrado,maria_ferreira
+Maria Eduarda Ferreira Pires,2,vr-34.txt,NumeroPeticao,maria_ferreira
+Maria Eduarda Ferreira Pires,1,vr-34.txt,PessoaFisica,maria_ferreira
+Maria Eduarda Ferreira Pires,1,vr-34.txt,ClasseProcessual,maria_ferreira
+Markes Felipe Maciel Oliveira,64,vr-34.txt,O,markes
+Markes Felipe Maciel Oliveira,13,vr-34.txt,PessoaJuridica,markes
+Markes Felipe Maciel Oliveira,6,vr-34.txt,PessoaFisica,markes
+Markes Felipe Maciel Oliveira,6,vr-34.txt,NumeroOAB,markes
+Markes Felipe Maciel Oliveira,6,vr-34.txt,Advogado,markes
+Markes Felipe Maciel Oliveira,4,vr-34.txt,Pessoa,markes
+Markes Felipe Maciel Oliveira,3,vr-34.txt,NumeroProcesso,markes
+Markes Felipe Maciel Oliveira,1,vr-34.txt,ClasseProcessual,markes

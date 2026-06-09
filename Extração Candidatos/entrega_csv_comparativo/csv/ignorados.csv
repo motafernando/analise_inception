@@ -1,0 +1,11 @@
+﻿documento,motivo,usuario
+rce-01.txt,Usuario tecnico/sistema ignorado,INITIAL_CAS
+rce-01.txt,TSV sem tokens anotaveis,pedro
+rce-02.txt,Usuario tecnico/sistema ignorado,INITIAL_CAS
+rce-02.txt,TSV sem tokens anotaveis,pedro
+rce-39.txt,Usuario tecnico/sistema ignorado,INITIAL_CAS
+rce-46.txt,Usuario tecnico/sistema ignorado,INITIAL_CAS
+vr-16.txt,Usuario tecnico/sistema ignorado,INITIAL_CAS
+vr-34.txt,Usuario tecnico/sistema ignorado,INITIAL_CAS
+vr-46 (exemplo).txt,Documento sem anotacao de referencia no Projeto A,
+vr-46-gold.tsv,Documento sem anotacao de referencia no Projeto A,
